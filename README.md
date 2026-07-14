@@ -43,11 +43,6 @@
 | `Dot_pars.py` | Пошук DOT-номерів на сторінці стороннього сайту через Selenium |
 | `cookies.py` | Отримання і збереження cookies для авторизованої сесії браузера |
 
-## Встановлення
-
-```bash
-pip install -r requirements.txt
-```
 
 Потрібні пакети: `PyQt5`, `requests`, `openpyxl`, `selenium`,
 `undetected-chromedriver`, `psutil`.
